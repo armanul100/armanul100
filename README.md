@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @armanul100
-- 👀 I’m interested in Coding
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Apna Collage
+- 💞️ I’m looking to collaborate on CP
 - 📫 How to reach me in Email
-- 😄 Pronouns: I,Me
 - ⚡ Fun fact: This is really make for fun
 
 <!---
